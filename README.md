@@ -6,9 +6,7 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on exciting projects involving software development and open source.
 - 🌱 I’m learning new technologies and frameworks regularly.
 - 💬 Ask me about web development, Python, JavaScript, and more!
-- 📫 How to reach me: [Your Email or Social Link]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A fun fact about you!]
+- 📫 How to reach me: jaron.27csa@licet.ac.in
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
