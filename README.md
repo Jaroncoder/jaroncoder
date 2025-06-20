@@ -21,8 +21,8 @@ Welcome to my GitHub profile!
 ![Jaroncoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaroncoder&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jaron-ce-97b941295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://x.com/jaron34314165)
 <!-- Add more social links as needed -->
 
 <!--
