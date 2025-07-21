@@ -1,28 +1,46 @@
-# Hi there, I'm Jaroncoder 👋
+<!-- Gradient Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00B4D8,F7971E,FFD200,21D4FD,B721FF&width=700&lines=Hi%2C+I'm+Jaroncoder+%F0%9F%92%A1;Building+scalable+web+%26+AI+apps;Open+source+fan+%F0%9F%91%8D" alt="typing-animation" />
+</p>
 
-Welcome to my GitHub profile!
+---
 
-## 🚀 About Me
-- 🔭 I’m currently working on exciting projects involving software development and open source.
-- 🌱 I’m learning new technologies and frameworks regularly.
-- 💬 Ask me about web development, Python, JavaScript, and more!
-- 📫 How to reach me: jaron.27csa@licet.ac.in
+### 💼 About
 
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-<!-- Add more badges for technologies you use -->
+- 🧑‍💻 **Role:** Full-stack, AI, OSS
+- 🏆 **Projects:** [AwesomeProject](https://github.com/Jaroncoder/awesomeproject), [AI-Toolkit](https://github.com/Jaroncoder/ai-toolkit)
+- 🌍 **Location:** Remote, 🌏
 
-## 📈 GitHub Stats
-![Jaroncoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaroncoder&show_icons=true&theme=radical)
+---
 
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jaron-ce-97b941295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://x.com/jaron34314165)
-<!-- Add more social links as needed -->
+### 🚀 Tech & Tools
 
-<!--
-⭐️ From [Jaroncoder](https://github.com/Jaroncoder)
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,fastapi,aws,figma,linux,github" />
+</p>
+
+---
+
+### 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaroncoder&show_icons=true&theme=gradient&hide_title=true" height="150"/>
+</p>
+
+---
+
+### 📰 Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Make Fast, Animated Profile READMEs](https://dev.to/jaroncoder/how-to-make-fast-animated-profile-readmes-4g1a)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📫 Social
+
+<p align="center">
+  <a href="https://twitter.com/Jaroncoder"><img src="https://img.shields.io/badge/Twitter-00B4D8?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:hello@jaroncoder.com"><img src="https://img.shields.io/badge/Email-F7971E?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jaroncoder"><img src="https://img.shields.io/badge/LinkedIn-B721FF?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
