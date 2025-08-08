@@ -1,55 +1,93 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
+<!--
+Welcome to my GitHub Profile! 🎉
 
-  <body>
-    <div class="card">
-      <!-- 1 -->
-      <div class="picture">
-        <img class="img-fluid" src="profile.jpg" />
-      </div>
-      <!-- 2 -->
-      <div class="main-content">
-        <h3 class="name">Sushil Kumar Kushwaha</h3>
-        <span><i class="fab fa-instagram"></i> Code.with.sushil</span>
-        <h4 class="title">Full Stack Developer 👨‍💻</h4>
-      </div>
-      <!-- 3 -->
-      <ul class="social">
-        <li><a href="#" class="fa fa-github"></a></li>
-        <li><a href="#" class="fa fa-twitter"></a></li>
-        <li><a href="#" class="fa fa-instagram"></a></li>
-        <li><a href="#" class="fa fa-telegram"></a></li>
-      </ul>
-      <!-- 4 -->
-      <div class="skills">
-        <h6>Skills</h6>
-        <ul>
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>SASS</li>
-          <li>JavaScript</li>
-          <li>React</li>
-          <li>Github</li>
-          <li>Git</li>
-          <li>VS code</li>
-          <li>next.js</li>
-          <li>python</li>
-          <li>MySql</li>
-          <li>C,C++</li>
-        </ul>
-      </div>
-    </div>
+This README is animated and interactive. 
+It uses GitHub profile markdown features, SVGs, and shields to provide a fun, engaging experience!
+-->
 
-    <script
-      src="https://kit.fontawesome.com/dd8c49730d.js"
-      crossorigin="anonymous"
-    ></script>
-  </body>
-</html>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jaroncoder!;Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://github.com/Jaroncoder/Jaroncoder/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jaroncoder?tab=repositories">
+    <img src="https://img.shields.io/badge/Code-Explore%20my%20repos-blue?style=for-the-badge&logo=github" alt="Explore Repos" />
+  </a>
+  <a href="https://github.com/Jaroncoder">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaroncoder.Jaroncoder" alt="Visitors" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+```js
+const Jaroncoder = {
+  pronouns: "He/Him",
+  code: ["JavaScript", "Python", "TypeScript", "Go"],
+  tools: ["React", "Node.js", "Docker", "GitHub Actions"],
+  learning: ["AI", "Cloud", "Open Source"],
+  funFact: "I love making interactive READMEs!"
+}
+```
+
+---
+
+## 🛠️ My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,nodejs,docker,github,linux" />
+</p>
+
+---
+
+## 🔥 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaroncoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaroncoder&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaroncoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌱 Fun Interactive Section
+
+<details>
+  <summary>🔎 Click to reveal a fun fact!</summary>
+  <p>Did you know? You can make your README interactive using HTML and markdown tricks on GitHub!</p>
+</details>
+
+---
+
+## 🗣️ Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/jaroncoder">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/jaroncoder">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
+  </a>
+</p>
+
+---
+
+<!--
+✨ You can customize this README with your own SVGs, shields, and interactive details blocks!
+-->
