@@ -10,7 +10,16 @@ It uses GitHub profile markdown features, SVGs, and shields to provide a fun, en
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Jaroncoder/Jaroncoder/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <!-- Animated SVG Progress Bar -->
+  <img src="https://svgshare.com/i/11tP.svg" alt="Animated Progress Bar" />
+</p>
+
+<p align="center">
+  <!-- GitHub Contribution Graph (no snake animation) -->
+  <a href="https://github.com/users/Jaroncoder/contributions">
+    <img src="https://raw.githubusercontent.com/Jaroncoder/Jaroncoder/main/profile-activity-graph.svg" alt="GitHub Contribution Graph" />
+  </a>
+  <!-- You can generate your own contribution graph SVG with tools such as github-readme-activity-graph or keep this as a placeholder! -->
 </p>
 
 <p align="center">
